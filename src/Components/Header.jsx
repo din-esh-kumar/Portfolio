@@ -15,9 +15,13 @@ const navList=[
     {
         id : 4,
         data:"Experience"
-    },   
+    },
     {
         id : 5,
+        data:"Projects"
+    },
+    {
+        id : 6,
         data:"Contact"
     }
 ]

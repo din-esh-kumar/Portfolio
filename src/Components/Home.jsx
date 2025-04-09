@@ -22,25 +22,24 @@ const Home = () => {
           <span className="text-red-500">
           <TypeAnimation
               sequence={[
-                "Web Developer", 1000,
-                "Machine Learning Developer", 1000,
-                "MERN Stack Developer", 1000,
-                "Full Stack Developer", 1000,
+                "Web Developer .", 1000,
+                "Student .", 1000,
+                "MERN Full Stack Developer .", 1000,
               ]}
               wrapper="span"
               cursor={true}
               speed={50}
-              style={{ fontSize: "1em", display: "inline-block" }}
+              style={{ fontSize: "1em", display: "inline-block", cursor: "pointer" }}
               repeat={Infinity}
             />
           </span>
         </h3>
-        <p className="text-sm sm:text-lg mb-6">
+        <h4 className="text-sm sm:text-lg mb-6">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. In illum
           harum asperiores ab, voluptatum repellat veritatis dicta laudantium
           tenetur explicabo voluptatibus iure non hic officia consequuntur
           libero quisquam omnis recusandae!
-        </p>
+        </h4>
         <SocialIcons></SocialIcons>
         <Button text="Hire Me" href="mailto:dkdinesh70707@gmail.com"></Button>
       </div>
