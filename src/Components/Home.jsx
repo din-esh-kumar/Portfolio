@@ -25,6 +25,8 @@ const Home = () => {
                 "Web Developer .", 1000,
                 "Student .", 1000,
                 "MERN Full Stack Developer .", 1000,
+                "Fresher .",1000,
+                "Data Analyst .", 1000
               ]}
               wrapper="span"
               cursor={true}

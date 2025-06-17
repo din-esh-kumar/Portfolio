@@ -7,7 +7,7 @@ bg{
 @theme{
     --font-family: 'Poppins', sans-serif;
 }
-.skillset{
+/* .skillset{
     .plfk{
         flex-basis: 45%;
     }
@@ -15,6 +15,20 @@ bg{
         flex-basis: 45%;
     }
     .bedev{
+        flex-basis: 45%;
+    }
+} */
+.edu{
+    .ad{
+        flex-basis: 45%;
+    }
+    .mern{
+        flex-basis: 45%;
+    }
+    .sslc{
+        flex-basis: 45%;
+    }
+    .hsc{
         flex-basis: 45%;
     }
 }
