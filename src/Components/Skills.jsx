@@ -7,9 +7,9 @@ function Skills() {
         <div className='skillset grid grid-cols-1 md:grid-cols-2 pb-10 md:pb-30 bg-black max-h-full justify-items-center place-content-center gap-4 md:gap-10'>
             <div className='flex flex-wrap md:w-2xl flex-col border-2 rounded-2xl md:rounded-4xl items-center border-red-500 transition md:hover:shadow-[0_0_25px_15px_rgba(255,0,0,0.8)] hover:shadow-[0_0_15px_8px_rgba(255,0,0,0.8)] cursor-pointer'>
                 <h1 className='text-xl sm:text-4xl items-center pt-1 pb-1.5 md:pt-5 md:pb-5 text-red-500'>Programming Languages & Frameworks</h1>
-                <h2 className='text-sm sm:text-2xl text-white'>Javascript(ReactJS, ExpressJS & ElectronJS)</h2>
+                <h2 className='text-sm sm:text-2xl text-white'>Javascript(ReactJS, NodeJS, ExpressJS & ElectronJS)</h2>
                 <h2 className='text-sm sm:text-2xl text-white'>CSS(Tailwind CSS)</h2>
-                <h2 className='text-sm sm:text-2xl text-white'>Python</h2>
+                <h2 className='text-sm sm:text-2xl text-white'>Python(Tensorflow & Selenium)</h2>
                 <h2 className='text-sm sm:text-2xl text-white'>HTML</h2>  
             </div>
             <div className='flex flex-wrap flex-col md:w-2xl text-transparent border-2 items-center rounded-2xl md:rounded-4xl border-red-500 md:hover:shadow-[0_0_25px_15px_rgba(255,0,0,0.8)] hover:shadow-[0_0_15px_8px_rgba(255,0,0,0.8)] cursor-pointer'>
